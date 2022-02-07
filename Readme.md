@@ -1,13 +1,17 @@
 建立 in 文件夹，把7z/redump/iso 放进去
+
 put 7z or cue/iso file in "in" folder(create it first)
 
 双击start.bat启动
+
 click start.bat to begin
 
 根据自己的需要修改一下设置（数字1-4）
+
 check 1-4 options, use number to change option
 
 最后输入y，按回车 开始转换，转换好的在out文件夹
+
 chd files are in "out" folder
 
 old:
