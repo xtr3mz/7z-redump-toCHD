@@ -2,6 +2,14 @@ This tool is thought to convert games to compressed archive CHD using chdman.exe
 
 It is using to convert Sega Dreamcast, Sega CD,PC Engine CD,...
 
+put 7z or cue/iso file in "in" folder
+
+click start.bat to begin
+
+check 1-4 options, use number to change option
+
+old:
+
 It is neccesary put in the directory you run the ZZZ to CHD.bat the next files:
 + 7z.dll
 + 7z.exe
