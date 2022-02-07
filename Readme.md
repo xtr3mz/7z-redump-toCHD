@@ -2,9 +2,9 @@
 
 put 7z or cue/iso file in "in" folder(create it first)
 
-双击start.bat启动
+双击start.bat启动 (不要以管理员权限运行，路径会错)
 
-click start.bat to begin
+click start.bat to begin, do NOT run it as admin
 
 根据自己的需要修改一下设置（数字1-4）
 
